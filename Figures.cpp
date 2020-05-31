@@ -4,7 +4,7 @@
 #include <time.h>
 
 using namespace std;
-//Допустим ква
+
 
 template<class Type>
 class MultSet
